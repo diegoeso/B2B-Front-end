@@ -1,0 +1,1076 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"table",
+				"table-header-group\tdisplay"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"n",
+				"nowrap\twhite-space"
+			],
+			[
+				"overflow",
+				"overflow-y\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"break",
+				"word-break\tproperty"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"martg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"get",
+				"getFinalNotification"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"De",
+				"devices"
+			],
+			[
+				"sta",
+				"start"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"cons",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Footer.js",
+			"settings":
+			{
+				"buffer_size": 934,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 401.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/B2BTravel",
+		"/var/www/html/B2BTravel/public",
+		"/var/www/html/B2BTravel/src",
+		"/var/www/html/B2BTravel/src/components"
+	],
+	"file_history":
+	[
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/templates/company/company_base.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/allocate_view.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/part_reports.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/edit_role_modal.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/access_list.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/templates/company/partdetail.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/user_list.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/script/inventree/inventree.js",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/script/inventree/sidenav.js",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/notes.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/bom.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/templates/company/detail.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/detail.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/orders.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/templates/company/order_detail.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/detail.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/part_thumb.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/stock/templates/stock/location.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/build_list.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/part_base.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/css/inventree.css",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/stock/templates/stock/stock_adjust.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/css/responsive.css",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/allocate.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/templates/company/detail_part.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/templates/company/detail_purchase_orders.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/templates/company/detail_stock.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/allocation.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/attachments.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/build.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/category.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/stock/templates/stock/tracking_delete.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/params.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/stock.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/supplier.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/track.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/used_in.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/navbar.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/bom_upload/select_fields.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/variants.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/bom_upload/select_parts.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/bom_upload/upload_file.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/stock/templates/stock/tracking.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/stock/templates/stock/item.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/stock_table.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/hover_image.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/build_base.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/allocate_edit.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/base.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/InvenTree/index.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/verification_email.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/registration/password_reset_email.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/allocation_item.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/order/templates/order/receive_parts.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/bom-detail.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/InvenTree/settings/part.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/tabs.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/stock/models.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/part_app_base.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/script/bootstrap/bootstrap-treeview.js",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/InvenTree/settings/user.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/filters.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/InvenTree/settings/tabs.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/InvenTree/settings/settings.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/stock/templates/stock/loc_link.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/stock/templates/stock/stock_app_base.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/stock/templates/stock/item_delete.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/stock/templates/stock/location_list.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/script/jquery-ui.js",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/index.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/css/select2.css",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/registration/login.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/registration/logout.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/registration/password_reset_done.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/registration/password_reset_confirm.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/registration/password_reset_complete.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/registration/password_reset_form.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/modal_form.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/InvenTree/parts_to_order.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/css/bootstrap-table.css",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/report_history.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/users/forms.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/models.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/locale/de/LC_MESSAGES/django.po",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/users/filters.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/script/datatables.js",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/templates/company/index.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/user_form.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/user_delete.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/README.md",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/InvenTree/starred_parts.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/templates/company/delete.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/order/templates/order/order_wizard/select_pos.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/order/templates/order/order_wizard/select_parts.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/users/models.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/account_activation.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/about.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/images/logo/inventree.svg",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/script/inventree/order.js",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/modal_delete_form.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/views.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/config.yaml",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/script/bootstrap/bootstrap-table.js",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/forms.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/auto_allocate.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/InvenTree/settings/other.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/complete.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/docs/modules.rst",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/admin.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/order/templates/order/purchase_orders.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/users/migrations/0007_auto_20200218_2034.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/users/migrations/0009_auto_20200312_1657.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/users/migrations/0008_auto_20200309_1754.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/models.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/set_category.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/role_delete.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/static/script/moment.js",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/build_status.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/forms.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/fixtures/supplier_part.yaml",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/users/views.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/templates/modals.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/delete_build.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/build/templates/build/delete_build_item.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/common/templates/common/delete_currency.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/company/templates/company/partdelete.html",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/InvenTree/views.py",
+		"/home/vinod/Desktop/Anita/inventory-new/Inventorysolution/InvenTree/part/templates/part/attachment_delete.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1201",
+			"767",
+			"773",
+			"Part Details",
+			"<h4>Part Details</h4>",
+			"container-fluid part-base",
+			"Part Details",
+			"stock-main-wrapper",
+			"767",
+			"bootstrap-table",
+			"build-nav",
+			"build-table-complete",
+			"stock-main-wrapper",
+			"% extends",
+			"stock-main-wrapper",
+			".treeview span.icon",
+			".treeview .list-group-item",
+			"768",
+			"767",
+			"id_date_range_0",
+			"768",
+			"767",
+			"alert alert-danger alert-block",
+			"th-inner",
+			"build-list",
+			"95",
+			"479",
+			"Powered by",
+			".treeview span.icon",
+			"#sidenav.sidenav",
+			" stock-details-table",
+			"contents",
+			"contents;",
+			"display:contents;",
+			"All stock items",
+			"767",
+			"Category Details",
+			".alert",
+			"All stock items",
+			"Stock Details",
+			".tbody",
+			".detail-part-scroll.table",
+			"scroll",
+			"767",
+			"id_date_range_0:before",
+			"#id_date_range_0:before",
+			".nav>li>a",
+			"dropdown-menu",
+			"admin-menu",
+			"dropdown admin-menu",
+			"button-toolbar container-fluid",
+			"settings-content",
+			"stock-table",
+			"tbody{overflow:scroll}",
+			"z-index:5",
+			"<style type=\"text/css\">",
+			"74% !important",
+			"767",
+			"74% !important",
+			"table table-striped",
+			"767",
+			"container-fluid part-base",
+			"table table-striped",
+			"part-table",
+			"stock-table",
+			"part-table",
+			"#stock-table.table.table-condensed",
+			"stock-table",
+			".modal.in .modal-dialog",
+			".modal-form-content .container",
+			".qr-code",
+			".select2-container .select2-selection--single",
+			".btn-group-vertical>.btn, .btn-group>.btn",
+			"999",
+			"767",
+			"btn-group-vertical",
+			".btn-group-vertical",
+			".btn-group-vertical>.btn",
+			".btn-group-vertical>.btn, .btn-group>.btn",
+			"767",
+			"hover-img-thumb",
+			"media-left",
+			"<<",
+			"filters-header",
+			"filter",
+			"767",
+			"filters-header",
+			"hover-icon",
+			"media-left",
+			"767",
+			"Build Details",
+			"767",
+			"media pull-left customfloat",
+			"part-table",
+			"media pull-left customfloat",
+			"row",
+			"media pull-left customfloat",
+			"980",
+			"Created new stock item",
+			"Part Parameters",
+			"table",
+			"container-fluid",
+			"nav nav-tabs",
+			"container-fluid",
+			"datepicker",
+			"id_date_range_0",
+			"By Date Range",
+			"By Date Range:",
+			"id_transaction_time",
+			"id_date_range_0",
+			"before",
+			"400",
+			"767",
+			"custom-boder-for-user",
+			"767",
+			"400",
+			"767",
+			"400",
+			".settings-nav",
+			"main body wrapper",
+			">>",
+			".nav-stacked>li",
+			">>",
+			".treeview span.icon",
+			".treeview .list-group-item",
+			"param-table",
+			"Set Password",
+			"767"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"demo_21"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Footer.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "b2b-frontend.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sidena",
+				"InvenTree/InvenTree/static/script/inventree/sidenav.js"
+			],
+			[
+				"deta",
+				"InvenTree/part/templates/part/detail.html"
+			],
+			[
+				"suppli",
+				"InvenTree/part/templates/part/supplier.html"
+			],
+			[
+				"location",
+				"InvenTree/stock/templates/stock/location.html"
+			],
+			[
+				"locatio",
+				"InvenTree/stock/templates/stock/location.html"
+			],
+			[
+				"inv",
+				"InvenTree/InvenTree/static/css/inventree.css"
+			],
+			[
+				"respon",
+				"InvenTree/InvenTree/static/css/responsive.css"
+			],
+			[
+				"index",
+				"InvenTree/templates/InvenTree/index.html"
+			],
+			[
+				"base",
+				"InvenTree/templates/base.html"
+			],
+			[
+				"responsive",
+				"InvenTree/InvenTree/static/css/responsive.css"
+			],
+			[
+				"inve",
+				"InvenTree/InvenTree/static/script/inventree/inventree.js"
+			],
+			[
+				"stoc",
+				"InvenTree/part/templates/part/stock.html"
+			],
+			[
+				"stock",
+				"InvenTree/templates/stock_table.html"
+			],
+			[
+				"order",
+				"InvenTree/part/templates/part/orders.html"
+			],
+			[
+				"supplier",
+				"InvenTree/part/templates/part/supplier.html"
+			],
+			[
+				"used",
+				"InvenTree/part/templates/part/used_in.html"
+			],
+			[
+				"build_bas",
+				"InvenTree/build/templates/build/build_base.html"
+			],
+			[
+				"allocate",
+				"InvenTree/build/templates/build/allocate_edit.html"
+			],
+			[
+				"stock_tab",
+				"InvenTree/templates/stock_table.html"
+			],
+			[
+				"part_thumb",
+				"InvenTree/part/templates/part/part_thumb.html"
+			],
+			[
+				"detail",
+				"InvenTree/part/templates/part/detail.html"
+			],
+			[
+				"build",
+				"InvenTree/part/templates/part/build.html"
+			],
+			[
+				"bom.ht",
+				"InvenTree/part/templates/part/bom.html"
+			],
+			[
+				"attach",
+				"InvenTree/part/templates/part/attachments.html"
+			],
+			[
+				"inventr",
+				"InvenTree/InvenTree/static/script/inventree/inventree.js"
+			],
+			[
+				"user_list",
+				"InvenTree/templates/user_list.html"
+			],
+			[
+				"part_base",
+				"InvenTree/part/templates/part/part_base.html"
+			],
+			[
+				"inde",
+				"InvenTree/templates/InvenTree/index.html"
+			],
+			[
+				"supplie",
+				"InvenTree/part/templates/part/supplier.html"
+			],
+			[
+				"atta",
+				"InvenTree/part/templates/part/attachments.html"
+			],
+			[
+				"all",
+				"InvenTree/templates/stock_table.html"
+			],
+			[
+				"para",
+				"InvenTree/part/templates/part/params.html"
+			],
+			[
+				"st",
+				"InvenTree/part/templates/part/stock.html"
+			],
+			[
+				"part_app",
+				"InvenTree/part/templates/part/part_app_base.html"
+			],
+			[
+				".js",
+				"InvenTree/InvenTree/static/script/inventree/inventree.js"
+			],
+			[
+				"",
+				"InvenTree/templates/part_reports.html"
+			],
+			[
+				"tab",
+				"InvenTree/templates/InvenTree/settings/tabs.html"
+			],
+			[
+				"setting",
+				"InvenTree/templates/InvenTree/settings/settings.html"
+			],
+			[
+				"bootstrap",
+				"InvenTree/InvenTree/static/script/bootstrap/bootstrap-treeview.js"
+			],
+			[
+				"content",
+				"InvenTree/company/templates/company/order_detail.html"
+			],
+			[
+				"jq",
+				"InvenTree/InvenTree/static/script/jquery-ui.js"
+			],
+			[
+				"select",
+				"InvenTree/InvenTree/static/css/select2.css"
+			],
+			[
+				"navbar",
+				"InvenTree/templates/navbar.html"
+			],
+			[
+				"pass",
+				"InvenTree/templates/registration/password_reset_form.html"
+			],
+			[
+				"user",
+				"InvenTree/templates/user_list.html"
+			],
+			[
+				"form",
+				"InvenTree/users/forms.py"
+			],
+			[
+				"model",
+				"InvenTree/build/models.py"
+			],
+			[
+				"edit",
+				"InvenTree/templates/edit_role_modal.html"
+			],
+			[
+				"password",
+				"InvenTree/templates/registration/password_reset_done.html"
+			],
+			[
+				"invent",
+				"InvenTree/InvenTree/static/css/inventree.css"
+			],
+			[
+				"logi",
+				"InvenTree/templates/registration/login.html"
+			],
+			[
+				"logo",
+				"InvenTree/locale/de/LC_MESSAGES/django.po"
+			],
+			[
+				"nav",
+				"InvenTree/templates/navbar.html"
+			],
+			[
+				"role",
+				"InvenTree/templates/edit_role_modal.html"
+			],
+			[
+				"filter",
+				"InvenTree/users/filters.py"
+			],
+			[
+				"acce",
+				"InvenTree/templates/access_list.html"
+			],
+			[
+				"repor",
+				"InvenTree/templates/report_history.html"
+			],
+			[
+				"bootstr",
+				"InvenTree/InvenTree/static/css/bootstrap-table.css"
+			],
+			[
+				"part_th",
+				"InvenTree/part/templates/part/part_thumb.html"
+			],
+			[
+				"part",
+				"InvenTree/part/templates/part/part_base.html"
+			],
+			[
+				"acc",
+				"InvenTree/templates/access_list.html"
+			],
+			[
+				"login",
+				"InvenTree/templates/registration/login.html"
+			],
+			[
+				"supp",
+				"InvenTree/part/templates/part/supplier.html"
+			],
+			[
+				"respons",
+				"InvenTree/InvenTree/static/css/responsive.css"
+			],
+			[
+				"config",
+				"InvenTree/config.yaml"
+			],
+			[
+				"other",
+				"InvenTree/templates/InvenTree/settings/other.html"
+			],
+			[
+				"0008_auto_20200309_1754",
+				"InvenTree/users/migrations/0008_auto_20200309_1754.py"
+			],
+			[
+				"bootstarp",
+				"InvenTree/InvenTree/static/css/bootstrap-table.css"
+			],
+			[
+				"purchase",
+				"InvenTree/order/templates/order/purchase_orders.html"
+			],
+			[
+				"buil",
+				"InvenTree/build/templates/build/build_list.html"
+			],
+			[
+				"users",
+				"InvenTree/templates/user_list.html"
+			],
+			[
+				"access",
+				"InvenTree/templates/access_list.html"
+			],
+			[
+				"report",
+				"InvenTree/templates/part_reports.html"
+			],
+			[
+				"company",
+				"InvenTree/company/forms.py"
+			],
+			[
+				"inven",
+				"InvenTree/InvenTree/static/css/inventree.css"
+			],
+			[
+				"reports",
+				"InvenTree/templates/part_reports.html"
+			],
+			[
+				"edit_role",
+				"InvenTree/templates/edit_role_modal.html"
+			],
+			[
+				"role_dele",
+				"InvenTree/templates/role_delete.html"
+			],
+			[
+				"base.js",
+				"InvenTree/InvenTree/static/script/bootstrap/bootstrap-table-en-US.min.js"
+			],
+			[
+				"globals",
+				"resources/assets/js/services/GlobalStore.js"
+			],
+			[
+				"benefic",
+				"resources/assets/js/components/Questions/Beneficiaries.vue"
+			],
+			[
+				"trustee.vue",
+				"resources/assets/js/components/Dashboard/Trustee.vue"
+			],
+			[
+				"trustee",
+				"resources/assets/js/components/user/EditTrustee.vue"
+			],
+			[
+				"trusteeinfo",
+				"resources/assets/js/componentsjs/TrusteeInfo.js"
+			],
+			[
+				"info.vue",
+				"resources/assets/js/components/MoreInfo.vue"
+			],
+			[
+				"createMy",
+				"resources/assets/js/components/CreateMyTrust.vue"
+			],
+			[
+				"MyInfo.vu",
+				"resources/assets/js/components/Questions/MyFamilyInfo.vue"
+			],
+			[
+				"modernsty",
+				"resources/assets/js/css/modernstyle.css"
+			],
+			[
+				"viewbequest",
+				"resources/assets/js/components/Dashboard/ViewSpecialBequests.vue"
+			],
+			[
+				"modern",
+				"resources/assets/js/css/modernstyle.css"
+			],
+			[
+				"viewbeques",
+				"resources/assets/js/components/Dashboard/ViewSpecialBequests.vue"
+			],
+			[
+				"v",
+				"node_modules/stripe/VERSION"
+			],
+			[
+				"app.vue",
+				"resources/assets/js/components/App.vue"
+			],
+			[
+				"app",
+				"public/js/app.js"
+			],
+			[
+				"benefi",
+				"resources/assets/js/components/Questions/Beneficiaries.vue"
+			],
+			[
+				"reti",
+				"resources/assets/js/components/Dashboard/Assets/RetirementAccounts.vue"
+			],
+			[
+				"moder",
+				"resources/assets/js/css/modernstyle.css"
+			],
+			[
+				"myAssets13.mp3",
+				"public/help/myAssets13.mp3"
+			],
+			[
+				"messagedialo",
+				"resources/assets/js/components/Questions/MessageDialog.vue"
+			],
+			[
+				"bene",
+				"resources/assets/js/components/Questions/BeneficiariesDialog.vue"
+			],
+			[
+				"addspecial",
+				"resources/assets/js/components/Dashboard/AddSpecialBequests.vue"
+			],
+			[
+				"review",
+				"resources/assets/js/components/MyTrustDocument/ReviewSignPayment.vue"
+			],
+			[
+				"trustdashboard",
+				"resources/assets/js/components/Trusteeinformation/TrustDashboard.vue"
+			],
+			[
+				"mytrust",
+				"resources/assets/js/components/MyTrustDocument/MyTrustDocument.vue"
+			],
+			[
+				"dashboar",
+				"resources/assets/js/components/Dashboard/Dashboard.vue"
+			],
+			[
+				"s",
+				"config/session.php"
+			],
+			[
+				"userprofil",
+				"resources/assets/js/components/user/UserProfile.vue"
+			],
+			[
+				"notification",
+				"app/Notification.php"
+			],
+			[
+				"trusteeno",
+				"resources/assets/js/components/Trusteeinformation/TrusteeNotifications.vue"
+			],
+			[
+				"reports-",
+				"reports/templates/reports-inner.html"
+			],
+			[
+				"job",
+				"access/templates/editjobrole.html"
+			],
+			[
+				"user_lis",
+				"users/templates/user_list.html"
+			],
+			[
+				".css",
+				"resources/assets/js/css/modernstyle.css"
+			],
+			[
+				"createmy",
+				"resources/assets/js/components/CreateMyTrust.vue"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"clientC",
+				"app/Http/Controllers/ClientController.php"
+			],
+			[
+				"api.php",
+				"My-lucky-heirs/routes/api.php"
+			],
+			[
+				"Spouse",
+				"My-lucky-heirs/app/Http/Controllers/SpouseController.php"
+			],
+			[
+				"client",
+				"My-lucky-heirs/app/Http/Controllers/ClientController.php"
+			],
+			[
+				"api",
+				"My-lucky-heirs/public/Api.json"
+			],
+			[
+				"api.json",
+				"My-lucky-heirs/public/Api.json"
+			],
+			[
+				"rou",
+				"application/config/routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$(PREFIX)/include/sass"
+			]
+		],
+		"width": 713.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
